@@ -1,0 +1,24 @@
+// Fill out your copyright notice in the Description page of Project Settings.
+
+#pragma once
+
+#include "CoreMinimal.h"
+#include "Item/ItemData/ItemData.h"
+#include "ConsumableItem.generated.h"
+
+/**
+ * 
+ */
+UCLASS()
+class ROYALKNIGHTGAS_API UConsumableItem : public UItemData
+{
+	GENERATED_BODY()
+	
+public:
+	UConsumableItem();
+
+	virtual bool UseItem(AActor* Target) const override;
+
+	UPROPERTY(EditAnywhere)
+	TSubclassOf<class UGameplayEffect> ItemEffect;
+};
