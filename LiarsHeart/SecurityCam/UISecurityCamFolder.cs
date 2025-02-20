@@ -23,7 +23,6 @@ public class UISecurityCamFolder : MonoBehaviour
         SecurityCamUI = GameManager.UI.LoadPopupUI<UISecurityCam>("SecurityCam");
         SecurityCamUI.SetVisible(true);
         SecurityCamManager.Instance.SetSecurityCamData(securityCamData);
-        //SecurityCamUI.CreateDateButton(securityCamData);
         Debug.Log("Folder Click");
     }
 }

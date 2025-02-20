@@ -5,9 +5,6 @@
 #include "AbilitySystemInterface.h"
 #include "RKGASUserWidget.generated.h"
 
-/**
- * 
- */
 UCLASS()
 class ROYALKNIGHTGAS_API URKGASUserWidget : public UUserWidget, public IAbilitySystemInterface
 {

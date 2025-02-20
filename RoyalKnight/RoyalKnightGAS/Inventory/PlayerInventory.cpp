@@ -51,6 +51,5 @@ void UPlayerInventory::UseItem(FPrimaryAssetType ItemType, int32 SlotNumber)
 
 void UPlayerInventory::LoadDefaultItems()
 {
-
 	UpdateInventoryEvent.Broadcast();
 }

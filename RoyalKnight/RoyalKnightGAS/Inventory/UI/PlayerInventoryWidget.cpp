@@ -22,7 +22,7 @@ void UPlayerInventoryWidget::Init()
 	FScriptDelegate ETCButtonEvent;
 	ETCButtonEvent.BindUFunction(this, "OnClickETCButton");
 	ETCButton->OnClicked.Add(ETCButtonEvent);
-	//GetOwningPlayerState
+
 	FScriptDelegate UpdateInventoryEvent;
 	UpdateInventoryEvent.BindUFunction(this, "UpdateInventory");
 	ARKGASPlayerState* PS = Cast<ARKGASPlayerState>(UGameplayStatics::GetPlayerState(GetWorld(), 0));

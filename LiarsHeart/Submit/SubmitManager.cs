@@ -49,14 +49,6 @@ public class SubmitManager
         return null;
     }
 
-    public void CompareResult()
-    {
-        foreach(UIQuestionNode node in questionNodes)
-        {
-
-        }
-    }
-
     public void ClearNodes()
     {
         questionNodes.Clear();

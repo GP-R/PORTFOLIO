@@ -1,5 +1,3 @@
-// Fill out your copyright notice in the Description page of Project Settings.
-
 #pragma once
 
 #include "CoreMinimal.h"
@@ -7,9 +5,7 @@
 #include "RKAT_JumpAndWaitForLanding.generated.h"
 
 DECLARE_DYNAMIC_MULTICAST_DELEGATE(FJumpAndWaitForLandingDelegate);
-/**
- * 
- */
+
 UCLASS()
 class ROYALKNIGHTGAS_API URKAT_JumpAndWaitForLanding : public UAbilityTask
 {

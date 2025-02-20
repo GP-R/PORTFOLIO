@@ -5,9 +5,6 @@
 #include "Character/RKCharacterBase.h"
 #include "RKGASPlayerController.generated.h"
 
-/**
- * 
- */
 UCLASS()
 class ROYALKNIGHTGAS_API ARKGASPlayerController : public APlayerController
 {
@@ -17,9 +14,6 @@ public:
 	void CreateHUD();
 	void CreateInventoryWidget();
 	void CreateEquipmentInventoryWidget();
-
-	//UPROPERTY(EditAnywhere, Category = "GASDocumentation|UI")
-	//TSubclassOf<class UGDDamageTextWidgetComponent> DamageNumberClass;
 
 	class URKGASHUDWidget* GetHUD();
 	class UPlayerInventoryWidget* GetPlayerInventory();

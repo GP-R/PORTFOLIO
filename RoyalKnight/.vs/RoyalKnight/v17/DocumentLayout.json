@@ -1,0 +1,1197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\UI\\RKGASWidgetComponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RoyalKnightGAS\\UI\\RKGASWidgetComponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\UI\\RKGASWidgetComponent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RoyalKnightGAS\\UI\\RKGASWidgetComponent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\UI\\RKGASUserWidget.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RoyalKnightGAS\\UI\\RKGASUserWidget.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\UI\\RKGASUserWidget.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RoyalKnightGAS\\UI\\RKGASUserWidget.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\UI\\RKGASHUDWidget.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RoyalKnightGAS\\UI\\RKGASHUDWidget.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\UI\\RKGASHUDWidget.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RoyalKnightGAS\\UI\\RKGASHUDWidget.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\UI\\RKGASHpBarUserWidget.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RoyalKnightGAS\\UI\\RKGASHpBarUserWidget.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\UI\\RKGASHpBarUserWidget.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RoyalKnightGAS\\UI\\RKGASHpBarUserWidget.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Tag\\RKGameplayTag.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RoyalKnightGAS\\Tag\\RKGameplayTag.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Player\\RKGASPlayerState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RoyalKnightGAS\\Player\\RKGASPlayerState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Player\\RKGASPlayerState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RoyalKnightGAS\\Player\\RKGASPlayerState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Player\\RKGASPlayerController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RoyalKnightGAS\\Player\\RKGASPlayerController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Player\\RKGASPlayerController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RoyalKnightGAS\\Player\\RKGASPlayerController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Item\\Item.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RoyalKnightGAS\\Item\\Item.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Item\\Item.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RoyalKnightGAS\\Item\\Item.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Item\\UI\\ItemSlotWidget.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RoyalKnightGAS\\Item\\UI\\ItemSlotWidget.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Item\\UI\\ItemSlotWidget.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RoyalKnightGAS\\Item\\UI\\ItemSlotWidget.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Item\\UI\\EquipmentItemSlot.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RoyalKnightGAS\\Item\\UI\\EquipmentItemSlot.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Item\\UI\\EquipmentItemSlot.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RoyalKnightGAS\\Item\\UI\\EquipmentItemSlot.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Item\\ItemData\\ItemData.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RoyalKnightGAS\\Item\\ItemData\\ItemData.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Item\\ItemData\\ItemData.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RoyalKnightGAS\\Item\\ItemData\\ItemData.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Item\\ItemData\\EquipmentItem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RoyalKnightGAS\\Item\\ItemData\\EquipmentItem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Item\\ItemData\\EquipmentItem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RoyalKnightGAS\\Item\\ItemData\\EquipmentItem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Item\\ItemData\\ConsumableItem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RoyalKnightGAS\\Item\\ItemData\\ConsumableItem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Item\\ItemData\\ConsumableItem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RoyalKnightGAS\\Item\\ItemData\\ConsumableItem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Inventory\\PlayerInventory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RoyalKnightGAS\\Inventory\\PlayerInventory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Inventory\\PlayerInventory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RoyalKnightGAS\\Inventory\\PlayerInventory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Inventory\\InventoryData.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RoyalKnightGAS\\Inventory\\InventoryData.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Inventory\\InventoryData.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RoyalKnightGAS\\Inventory\\InventoryData.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Inventory\\InventoryBase.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RoyalKnightGAS\\Inventory\\InventoryBase.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Inventory\\InventoryBase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RoyalKnightGAS\\Inventory\\InventoryBase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Inventory\\EquipmentInventory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RoyalKnightGAS\\Inventory\\EquipmentInventory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Inventory\\EquipmentInventory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RoyalKnightGAS\\Inventory\\EquipmentInventory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Inventory\\UI\\PlayerInventoryWidget.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RoyalKnightGAS\\Inventory\\UI\\PlayerInventoryWidget.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Inventory\\UI\\PlayerInventoryWidget.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RoyalKnightGAS\\Inventory\\UI\\PlayerInventoryWidget.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Inventory\\UI\\InventoryGridWidget.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RoyalKnightGAS\\Inventory\\UI\\InventoryGridWidget.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Inventory\\UI\\InventoryGridWidget.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RoyalKnightGAS\\Inventory\\UI\\InventoryGridWidget.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Inventory\\UI\\EquipmentInventoryWidget.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RoyalKnightGAS\\Inventory\\UI\\EquipmentInventoryWidget.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Inventory\\UI\\EquipmentInventoryWidget.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RoyalKnightGAS\\Inventory\\UI\\EquipmentInventoryWidget.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\GC\\RKGC_AttackHit.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RoyalKnightGAS\\GC\\RKGC_AttackHit.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\GC\\RKGC_AttackHit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RoyalKnightGAS\\GC\\RKGC_AttackHit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\GA\\RKGA_SkillBase.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RoyalKnightGAS\\GA\\RKGA_SkillBase.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\GA\\RKGA_SkillBase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RoyalKnightGAS\\GA\\RKGA_SkillBase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\GA\\RKGA_Jump.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RoyalKnightGAS\\GA\\RKGA_Jump.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\GA\\RKGA_Jump.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RoyalKnightGAS\\GA\\RKGA_Jump.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\GA\\RKGA_AttackHitCheck.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RoyalKnightGAS\\GA\\RKGA_AttackHitCheck.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\GA\\RKGA_AttackHitCheck.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RoyalKnightGAS\\GA\\RKGA_AttackHitCheck.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\GA\\RKGA_Attack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RoyalKnightGAS\\GA\\RKGA_Attack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\GA\\RKGA_Attack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RoyalKnightGAS\\GA\\RKGA_Attack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\GA\\Task\\RKAT_Trace.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RoyalKnightGAS\\GA\\Task\\RKAT_Trace.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\GA\\Task\\RKAT_Trace.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RoyalKnightGAS\\GA\\Task\\RKAT_Trace.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\GA\\Task\\RKAT_JumpAndWaitForLanding.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RoyalKnightGAS\\GA\\Task\\RKAT_JumpAndWaitForLanding.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\GA\\Task\\RKAT_JumpAndWaitForLanding.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RoyalKnightGAS\\GA\\Task\\RKAT_JumpAndWaitForLanding.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\GA\\TargetActor\\RKTA_Trace.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RoyalKnightGAS\\GA\\TargetActor\\RKTA_Trace.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\GA\\TargetActor\\RKTA_Trace.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RoyalKnightGAS\\GA\\TargetActor\\RKTA_Trace.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Equipment\\RKGASWeaponActor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RoyalKnightGAS\\Equipment\\RKGASWeaponActor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Equipment\\RKGASWeaponActor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RoyalKnightGAS\\Equipment\\RKGASWeaponActor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Equipment\\RKGASEquipment.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RoyalKnightGAS\\Equipment\\RKGASEquipment.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Equipment\\RKGASEquipment.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RoyalKnightGAS\\Equipment\\RKGASEquipment.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Environment\\RKGASTriggerBox.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RoyalKnightGAS\\Environment\\RKGASTriggerBox.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Environment\\RKGASTriggerBox.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RoyalKnightGAS\\Environment\\RKGASTriggerBox.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Character\\RKGASCharacterPlayer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RoyalKnightGAS\\Character\\RKGASCharacterPlayer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Character\\RKGASCharacterPlayer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RoyalKnightGAS\\Character\\RKGASCharacterPlayer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Character\\RKGASCharacterEnemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RoyalKnightGAS\\Character\\RKGASCharacterEnemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Character\\RKGASCharacterEnemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RoyalKnightGAS\\Character\\RKGASCharacterEnemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Attribute\\RKCharacterAttributeSet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RoyalKnightGAS\\Attribute\\RKCharacterAttributeSet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Attribute\\RKCharacterAttributeSet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RoyalKnightGAS\\Attribute\\RKCharacterAttributeSet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Animation\\RKAN_AttackHitCheck.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RoyalKnightGAS\\Animation\\RKAN_AttackHitCheck.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Animation\\RKAN_AttackHitCheck.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RoyalKnightGAS\\Animation\\RKAN_AttackHitCheck.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RKGASWidgetComponent.h",
+              "DocumentMoniker": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\UI\\RKGASWidgetComponent.h",
+              "RelativeDocumentMoniker": "RoyalKnightGAS\\UI\\RKGASWidgetComponent.h",
+              "ToolTip": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\UI\\RKGASWidgetComponent.h",
+              "RelativeToolTip": "RoyalKnightGAS\\UI\\RKGASWidgetComponent.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-20T04:59:46.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RKGASWidgetComponent.cpp",
+              "DocumentMoniker": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\UI\\RKGASWidgetComponent.cpp",
+              "RelativeDocumentMoniker": "RoyalKnightGAS\\UI\\RKGASWidgetComponent.cpp",
+              "ToolTip": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\UI\\RKGASWidgetComponent.cpp",
+              "RelativeToolTip": "RoyalKnightGAS\\UI\\RKGASWidgetComponent.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-20T04:59:39.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RKGASUserWidget.h",
+              "DocumentMoniker": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\UI\\RKGASUserWidget.h",
+              "RelativeDocumentMoniker": "RoyalKnightGAS\\UI\\RKGASUserWidget.h",
+              "ToolTip": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\UI\\RKGASUserWidget.h",
+              "RelativeToolTip": "RoyalKnightGAS\\UI\\RKGASUserWidget.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-20T04:59:35.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RKGASUserWidget.cpp",
+              "DocumentMoniker": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\UI\\RKGASUserWidget.cpp",
+              "RelativeDocumentMoniker": "RoyalKnightGAS\\UI\\RKGASUserWidget.cpp",
+              "ToolTip": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\UI\\RKGASUserWidget.cpp",
+              "RelativeToolTip": "RoyalKnightGAS\\UI\\RKGASUserWidget.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-20T04:59:34.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RKGASHUDWidget.cpp",
+              "DocumentMoniker": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\UI\\RKGASHUDWidget.cpp",
+              "RelativeDocumentMoniker": "RoyalKnightGAS\\UI\\RKGASHUDWidget.cpp",
+              "ToolTip": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\UI\\RKGASHUDWidget.cpp",
+              "RelativeToolTip": "RoyalKnightGAS\\UI\\RKGASHUDWidget.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-20T04:59:26.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RKGASHUDWidget.h",
+              "DocumentMoniker": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\UI\\RKGASHUDWidget.h",
+              "RelativeDocumentMoniker": "RoyalKnightGAS\\UI\\RKGASHUDWidget.h",
+              "ToolTip": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\UI\\RKGASHUDWidget.h",
+              "RelativeToolTip": "RoyalKnightGAS\\UI\\RKGASHUDWidget.h",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-20T04:59:22.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RKGASHpBarUserWidget.h",
+              "DocumentMoniker": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\UI\\RKGASHpBarUserWidget.h",
+              "RelativeDocumentMoniker": "RoyalKnightGAS\\UI\\RKGASHpBarUserWidget.h",
+              "ToolTip": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\UI\\RKGASHpBarUserWidget.h",
+              "RelativeToolTip": "RoyalKnightGAS\\UI\\RKGASHpBarUserWidget.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-20T04:59:18.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RKGASHpBarUserWidget.cpp",
+              "DocumentMoniker": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\UI\\RKGASHpBarUserWidget.cpp",
+              "RelativeDocumentMoniker": "RoyalKnightGAS\\UI\\RKGASHpBarUserWidget.cpp",
+              "ToolTip": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\UI\\RKGASHpBarUserWidget.cpp",
+              "RelativeToolTip": "RoyalKnightGAS\\UI\\RKGASHpBarUserWidget.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-20T04:59:16.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RKGameplayTag.h",
+              "DocumentMoniker": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Tag\\RKGameplayTag.h",
+              "RelativeDocumentMoniker": "RoyalKnightGAS\\Tag\\RKGameplayTag.h",
+              "ToolTip": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Tag\\RKGameplayTag.h",
+              "RelativeToolTip": "RoyalKnightGAS\\Tag\\RKGameplayTag.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-20T04:59:13.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RKGASPlayerController.cpp",
+              "DocumentMoniker": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Player\\RKGASPlayerController.cpp",
+              "RelativeDocumentMoniker": "RoyalKnightGAS\\Player\\RKGASPlayerController.cpp",
+              "ToolTip": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Player\\RKGASPlayerController.cpp",
+              "RelativeToolTip": "RoyalKnightGAS\\Player\\RKGASPlayerController.cpp",
+              "ViewState": "AQIAALQAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-20T04:58:58.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RKGASPlayerController.h",
+              "DocumentMoniker": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Player\\RKGASPlayerController.h",
+              "RelativeDocumentMoniker": "RoyalKnightGAS\\Player\\RKGASPlayerController.h",
+              "ToolTip": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Player\\RKGASPlayerController.h",
+              "RelativeToolTip": "RoyalKnightGAS\\Player\\RKGASPlayerController.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-20T04:58:56.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RKGASPlayerState.cpp",
+              "DocumentMoniker": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Player\\RKGASPlayerState.cpp",
+              "RelativeDocumentMoniker": "RoyalKnightGAS\\Player\\RKGASPlayerState.cpp",
+              "ToolTip": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Player\\RKGASPlayerState.cpp",
+              "RelativeToolTip": "RoyalKnightGAS\\Player\\RKGASPlayerState.cpp",
+              "ViewState": "AQIAAIEAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-20T04:58:52.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RKGASPlayerState.h",
+              "DocumentMoniker": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Player\\RKGASPlayerState.h",
+              "RelativeDocumentMoniker": "RoyalKnightGAS\\Player\\RKGASPlayerState.h",
+              "ToolTip": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Player\\RKGASPlayerState.h",
+              "RelativeToolTip": "RoyalKnightGAS\\Player\\RKGASPlayerState.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-20T04:58:47.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Item.h",
+              "DocumentMoniker": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Item\\Item.h",
+              "RelativeDocumentMoniker": "RoyalKnightGAS\\Item\\Item.h",
+              "ToolTip": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Item\\Item.h",
+              "RelativeToolTip": "RoyalKnightGAS\\Item\\Item.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-20T04:58:25.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Item.cpp",
+              "DocumentMoniker": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Item\\Item.cpp",
+              "RelativeDocumentMoniker": "RoyalKnightGAS\\Item\\Item.cpp",
+              "ToolTip": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Item\\Item.cpp",
+              "RelativeToolTip": "RoyalKnightGAS\\Item\\Item.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-20T04:58:23.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ItemSlotWidget.h",
+              "DocumentMoniker": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Item\\UI\\ItemSlotWidget.h",
+              "RelativeDocumentMoniker": "RoyalKnightGAS\\Item\\UI\\ItemSlotWidget.h",
+              "ToolTip": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Item\\UI\\ItemSlotWidget.h",
+              "RelativeToolTip": "RoyalKnightGAS\\Item\\UI\\ItemSlotWidget.h",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-20T04:58:21.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ItemSlotWidget.cpp",
+              "DocumentMoniker": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Item\\UI\\ItemSlotWidget.cpp",
+              "RelativeDocumentMoniker": "RoyalKnightGAS\\Item\\UI\\ItemSlotWidget.cpp",
+              "ToolTip": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Item\\UI\\ItemSlotWidget.cpp",
+              "RelativeToolTip": "RoyalKnightGAS\\Item\\UI\\ItemSlotWidget.cpp",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-20T04:58:18.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EquipmentItemSlot.h",
+              "DocumentMoniker": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Item\\UI\\EquipmentItemSlot.h",
+              "RelativeDocumentMoniker": "RoyalKnightGAS\\Item\\UI\\EquipmentItemSlot.h",
+              "ToolTip": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Item\\UI\\EquipmentItemSlot.h",
+              "RelativeToolTip": "RoyalKnightGAS\\Item\\UI\\EquipmentItemSlot.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-20T04:58:13.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EquipmentItemSlot.cpp",
+              "DocumentMoniker": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Item\\UI\\EquipmentItemSlot.cpp",
+              "RelativeDocumentMoniker": "RoyalKnightGAS\\Item\\UI\\EquipmentItemSlot.cpp",
+              "ToolTip": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Item\\UI\\EquipmentItemSlot.cpp",
+              "RelativeToolTip": "RoyalKnightGAS\\Item\\UI\\EquipmentItemSlot.cpp",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-20T04:58:10.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ItemData.h",
+              "DocumentMoniker": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Item\\ItemData\\ItemData.h",
+              "RelativeDocumentMoniker": "RoyalKnightGAS\\Item\\ItemData\\ItemData.h",
+              "ToolTip": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Item\\ItemData\\ItemData.h",
+              "RelativeToolTip": "RoyalKnightGAS\\Item\\ItemData\\ItemData.h",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-20T04:58:05.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ItemData.cpp",
+              "DocumentMoniker": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Item\\ItemData\\ItemData.cpp",
+              "RelativeDocumentMoniker": "RoyalKnightGAS\\Item\\ItemData\\ItemData.cpp",
+              "ToolTip": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Item\\ItemData\\ItemData.cpp",
+              "RelativeToolTip": "RoyalKnightGAS\\Item\\ItemData\\ItemData.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-20T04:58:03.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EquipmentItem.h",
+              "DocumentMoniker": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Item\\ItemData\\EquipmentItem.h",
+              "RelativeDocumentMoniker": "RoyalKnightGAS\\Item\\ItemData\\EquipmentItem.h",
+              "ToolTip": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Item\\ItemData\\EquipmentItem.h",
+              "RelativeToolTip": "RoyalKnightGAS\\Item\\ItemData\\EquipmentItem.h",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-20T04:58:00.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EquipmentItem.cpp",
+              "DocumentMoniker": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Item\\ItemData\\EquipmentItem.cpp",
+              "RelativeDocumentMoniker": "RoyalKnightGAS\\Item\\ItemData\\EquipmentItem.cpp",
+              "ToolTip": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Item\\ItemData\\EquipmentItem.cpp",
+              "RelativeToolTip": "RoyalKnightGAS\\Item\\ItemData\\EquipmentItem.cpp",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-20T04:57:57.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ConsumableItem.h",
+              "DocumentMoniker": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Item\\ItemData\\ConsumableItem.h",
+              "RelativeDocumentMoniker": "RoyalKnightGAS\\Item\\ItemData\\ConsumableItem.h",
+              "ToolTip": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Item\\ItemData\\ConsumableItem.h",
+              "RelativeToolTip": "RoyalKnightGAS\\Item\\ItemData\\ConsumableItem.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-20T04:57:53.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ConsumableItem.cpp",
+              "DocumentMoniker": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Item\\ItemData\\ConsumableItem.cpp",
+              "RelativeDocumentMoniker": "RoyalKnightGAS\\Item\\ItemData\\ConsumableItem.cpp",
+              "ToolTip": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Item\\ItemData\\ConsumableItem.cpp",
+              "RelativeToolTip": "RoyalKnightGAS\\Item\\ItemData\\ConsumableItem.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-20T04:57:51.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PlayerInventory.h",
+              "DocumentMoniker": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Inventory\\PlayerInventory.h",
+              "RelativeDocumentMoniker": "RoyalKnightGAS\\Inventory\\PlayerInventory.h",
+              "ToolTip": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Inventory\\PlayerInventory.h",
+              "RelativeToolTip": "RoyalKnightGAS\\Inventory\\PlayerInventory.h",
+              "ViewState": "AQIAAAkAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-20T04:57:43.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PlayerInventory.cpp",
+              "DocumentMoniker": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Inventory\\PlayerInventory.cpp",
+              "RelativeDocumentMoniker": "RoyalKnightGAS\\Inventory\\PlayerInventory.cpp",
+              "ToolTip": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Inventory\\PlayerInventory.cpp",
+              "RelativeToolTip": "RoyalKnightGAS\\Inventory\\PlayerInventory.cpp",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-20T04:57:41.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "InventoryData.h",
+              "DocumentMoniker": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Inventory\\InventoryData.h",
+              "RelativeDocumentMoniker": "RoyalKnightGAS\\Inventory\\InventoryData.h",
+              "ToolTip": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Inventory\\InventoryData.h",
+              "RelativeToolTip": "RoyalKnightGAS\\Inventory\\InventoryData.h",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-20T04:57:35.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "InventoryData.cpp",
+              "DocumentMoniker": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Inventory\\InventoryData.cpp",
+              "RelativeDocumentMoniker": "RoyalKnightGAS\\Inventory\\InventoryData.cpp",
+              "ToolTip": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Inventory\\InventoryData.cpp",
+              "RelativeToolTip": "RoyalKnightGAS\\Inventory\\InventoryData.cpp",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-20T04:57:30.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "InventoryBase.h",
+              "DocumentMoniker": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Inventory\\InventoryBase.h",
+              "RelativeDocumentMoniker": "RoyalKnightGAS\\Inventory\\InventoryBase.h",
+              "ToolTip": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Inventory\\InventoryBase.h",
+              "RelativeToolTip": "RoyalKnightGAS\\Inventory\\InventoryBase.h",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-20T04:57:27.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "InventoryBase.cpp",
+              "DocumentMoniker": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Inventory\\InventoryBase.cpp",
+              "RelativeDocumentMoniker": "RoyalKnightGAS\\Inventory\\InventoryBase.cpp",
+              "ToolTip": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Inventory\\InventoryBase.cpp",
+              "RelativeToolTip": "RoyalKnightGAS\\Inventory\\InventoryBase.cpp",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-20T04:57:25.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "EquipmentInventory.h",
+              "DocumentMoniker": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Inventory\\EquipmentInventory.h",
+              "RelativeDocumentMoniker": "RoyalKnightGAS\\Inventory\\EquipmentInventory.h",
+              "ToolTip": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Inventory\\EquipmentInventory.h",
+              "RelativeToolTip": "RoyalKnightGAS\\Inventory\\EquipmentInventory.h",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-20T04:57:20.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "EquipmentInventory.cpp",
+              "DocumentMoniker": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Inventory\\EquipmentInventory.cpp",
+              "RelativeDocumentMoniker": "RoyalKnightGAS\\Inventory\\EquipmentInventory.cpp",
+              "ToolTip": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Inventory\\EquipmentInventory.cpp",
+              "RelativeToolTip": "RoyalKnightGAS\\Inventory\\EquipmentInventory.cpp",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-20T04:57:15.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "PlayerInventoryWidget.h",
+              "DocumentMoniker": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Inventory\\UI\\PlayerInventoryWidget.h",
+              "RelativeDocumentMoniker": "RoyalKnightGAS\\Inventory\\UI\\PlayerInventoryWidget.h",
+              "ToolTip": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Inventory\\UI\\PlayerInventoryWidget.h",
+              "RelativeToolTip": "RoyalKnightGAS\\Inventory\\UI\\PlayerInventoryWidget.h",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAAYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-20T04:56:49.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "PlayerInventoryWidget.cpp",
+              "DocumentMoniker": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Inventory\\UI\\PlayerInventoryWidget.cpp",
+              "RelativeDocumentMoniker": "RoyalKnightGAS\\Inventory\\UI\\PlayerInventoryWidget.cpp",
+              "ToolTip": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Inventory\\UI\\PlayerInventoryWidget.cpp",
+              "RelativeToolTip": "RoyalKnightGAS\\Inventory\\UI\\PlayerInventoryWidget.cpp",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-20T04:56:37.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "InventoryGridWidget.h",
+              "DocumentMoniker": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Inventory\\UI\\InventoryGridWidget.h",
+              "RelativeDocumentMoniker": "RoyalKnightGAS\\Inventory\\UI\\InventoryGridWidget.h",
+              "ToolTip": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Inventory\\UI\\InventoryGridWidget.h",
+              "RelativeToolTip": "RoyalKnightGAS\\Inventory\\UI\\InventoryGridWidget.h",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-20T04:56:16.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "InventoryGridWidget.cpp",
+              "DocumentMoniker": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Inventory\\UI\\InventoryGridWidget.cpp",
+              "RelativeDocumentMoniker": "RoyalKnightGAS\\Inventory\\UI\\InventoryGridWidget.cpp",
+              "ToolTip": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Inventory\\UI\\InventoryGridWidget.cpp",
+              "RelativeToolTip": "RoyalKnightGAS\\Inventory\\UI\\InventoryGridWidget.cpp",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-20T04:56:14.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "EquipmentInventoryWidget.h",
+              "DocumentMoniker": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Inventory\\UI\\EquipmentInventoryWidget.h",
+              "RelativeDocumentMoniker": "RoyalKnightGAS\\Inventory\\UI\\EquipmentInventoryWidget.h",
+              "ToolTip": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Inventory\\UI\\EquipmentInventoryWidget.h",
+              "RelativeToolTip": "RoyalKnightGAS\\Inventory\\UI\\EquipmentInventoryWidget.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-20T04:56:09.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "EquipmentInventoryWidget.cpp",
+              "DocumentMoniker": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Inventory\\UI\\EquipmentInventoryWidget.cpp",
+              "RelativeDocumentMoniker": "RoyalKnightGAS\\Inventory\\UI\\EquipmentInventoryWidget.cpp",
+              "ToolTip": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Inventory\\UI\\EquipmentInventoryWidget.cpp",
+              "RelativeToolTip": "RoyalKnightGAS\\Inventory\\UI\\EquipmentInventoryWidget.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-20T04:56:02.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "RKGC_AttackHit.h",
+              "DocumentMoniker": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\GC\\RKGC_AttackHit.h",
+              "RelativeDocumentMoniker": "RoyalKnightGAS\\GC\\RKGC_AttackHit.h",
+              "ToolTip": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\GC\\RKGC_AttackHit.h",
+              "RelativeToolTip": "RoyalKnightGAS\\GC\\RKGC_AttackHit.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-20T04:55:52.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "RKGC_AttackHit.cpp",
+              "DocumentMoniker": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\GC\\RKGC_AttackHit.cpp",
+              "RelativeDocumentMoniker": "RoyalKnightGAS\\GC\\RKGC_AttackHit.cpp",
+              "ToolTip": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\GC\\RKGC_AttackHit.cpp",
+              "RelativeToolTip": "RoyalKnightGAS\\GC\\RKGC_AttackHit.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-20T04:55:49.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "RKGA_SkillBase.h",
+              "DocumentMoniker": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\GA\\RKGA_SkillBase.h",
+              "RelativeDocumentMoniker": "RoyalKnightGAS\\GA\\RKGA_SkillBase.h",
+              "ToolTip": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\GA\\RKGA_SkillBase.h",
+              "RelativeToolTip": "RoyalKnightGAS\\GA\\RKGA_SkillBase.h",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-20T04:55:43.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "RKGA_SkillBase.cpp",
+              "DocumentMoniker": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\GA\\RKGA_SkillBase.cpp",
+              "RelativeDocumentMoniker": "RoyalKnightGAS\\GA\\RKGA_SkillBase.cpp",
+              "ToolTip": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\GA\\RKGA_SkillBase.cpp",
+              "RelativeToolTip": "RoyalKnightGAS\\GA\\RKGA_SkillBase.cpp",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-20T04:55:40.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "RKGA_Jump.h",
+              "DocumentMoniker": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\GA\\RKGA_Jump.h",
+              "RelativeDocumentMoniker": "RoyalKnightGAS\\GA\\RKGA_Jump.h",
+              "ToolTip": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\GA\\RKGA_Jump.h",
+              "RelativeToolTip": "RoyalKnightGAS\\GA\\RKGA_Jump.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-20T04:55:36.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "RKGA_Jump.cpp",
+              "DocumentMoniker": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\GA\\RKGA_Jump.cpp",
+              "RelativeDocumentMoniker": "RoyalKnightGAS\\GA\\RKGA_Jump.cpp",
+              "ToolTip": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\GA\\RKGA_Jump.cpp",
+              "RelativeToolTip": "RoyalKnightGAS\\GA\\RKGA_Jump.cpp",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-20T04:55:31.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "RKGA_AttackHitCheck.h",
+              "DocumentMoniker": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\GA\\RKGA_AttackHitCheck.h",
+              "RelativeDocumentMoniker": "RoyalKnightGAS\\GA\\RKGA_AttackHitCheck.h",
+              "ToolTip": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\GA\\RKGA_AttackHitCheck.h",
+              "RelativeToolTip": "RoyalKnightGAS\\GA\\RKGA_AttackHitCheck.h",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-20T04:55:25.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "RKGA_AttackHitCheck.cpp",
+              "DocumentMoniker": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\GA\\RKGA_AttackHitCheck.cpp",
+              "RelativeDocumentMoniker": "RoyalKnightGAS\\GA\\RKGA_AttackHitCheck.cpp",
+              "ToolTip": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\GA\\RKGA_AttackHitCheck.cpp",
+              "RelativeToolTip": "RoyalKnightGAS\\GA\\RKGA_AttackHitCheck.cpp",
+              "ViewState": "AQIAADYAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-20T04:55:21.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "RKGA_Attack.h",
+              "DocumentMoniker": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\GA\\RKGA_Attack.h",
+              "RelativeDocumentMoniker": "RoyalKnightGAS\\GA\\RKGA_Attack.h",
+              "ToolTip": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\GA\\RKGA_Attack.h",
+              "RelativeToolTip": "RoyalKnightGAS\\GA\\RKGA_Attack.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-20T04:55:15.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "RKGA_Attack.cpp",
+              "DocumentMoniker": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\GA\\RKGA_Attack.cpp",
+              "RelativeDocumentMoniker": "RoyalKnightGAS\\GA\\RKGA_Attack.cpp",
+              "ToolTip": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\GA\\RKGA_Attack.cpp",
+              "RelativeToolTip": "RoyalKnightGAS\\GA\\RKGA_Attack.cpp",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-20T04:55:12.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "RKAT_Trace.h",
+              "DocumentMoniker": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\GA\\Task\\RKAT_Trace.h",
+              "RelativeDocumentMoniker": "RoyalKnightGAS\\GA\\Task\\RKAT_Trace.h",
+              "ToolTip": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\GA\\Task\\RKAT_Trace.h",
+              "RelativeToolTip": "RoyalKnightGAS\\GA\\Task\\RKAT_Trace.h",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-20T04:55:09.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "RKAT_Trace.cpp",
+              "DocumentMoniker": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\GA\\Task\\RKAT_Trace.cpp",
+              "RelativeDocumentMoniker": "RoyalKnightGAS\\GA\\Task\\RKAT_Trace.cpp",
+              "ToolTip": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\GA\\Task\\RKAT_Trace.cpp",
+              "RelativeToolTip": "RoyalKnightGAS\\GA\\Task\\RKAT_Trace.cpp",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-20T04:55:06.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "RKAT_JumpAndWaitForLanding.h",
+              "DocumentMoniker": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\GA\\Task\\RKAT_JumpAndWaitForLanding.h",
+              "RelativeDocumentMoniker": "RoyalKnightGAS\\GA\\Task\\RKAT_JumpAndWaitForLanding.h",
+              "ToolTip": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\GA\\Task\\RKAT_JumpAndWaitForLanding.h",
+              "RelativeToolTip": "RoyalKnightGAS\\GA\\Task\\RKAT_JumpAndWaitForLanding.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-20T04:54:59.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "RKAT_JumpAndWaitForLanding.cpp",
+              "DocumentMoniker": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\GA\\Task\\RKAT_JumpAndWaitForLanding.cpp",
+              "RelativeDocumentMoniker": "RoyalKnightGAS\\GA\\Task\\RKAT_JumpAndWaitForLanding.cpp",
+              "ToolTip": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\GA\\Task\\RKAT_JumpAndWaitForLanding.cpp",
+              "RelativeToolTip": "RoyalKnightGAS\\GA\\Task\\RKAT_JumpAndWaitForLanding.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-20T04:54:58.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "RKTA_Trace.h",
+              "DocumentMoniker": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\GA\\TargetActor\\RKTA_Trace.h",
+              "RelativeDocumentMoniker": "RoyalKnightGAS\\GA\\TargetActor\\RKTA_Trace.h",
+              "ToolTip": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\GA\\TargetActor\\RKTA_Trace.h",
+              "RelativeToolTip": "RoyalKnightGAS\\GA\\TargetActor\\RKTA_Trace.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-20T04:54:53.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "RKTA_Trace.cpp",
+              "DocumentMoniker": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\GA\\TargetActor\\RKTA_Trace.cpp",
+              "RelativeDocumentMoniker": "RoyalKnightGAS\\GA\\TargetActor\\RKTA_Trace.cpp",
+              "ToolTip": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\GA\\TargetActor\\RKTA_Trace.cpp",
+              "RelativeToolTip": "RoyalKnightGAS\\GA\\TargetActor\\RKTA_Trace.cpp",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-20T04:54:46.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "RKGASWeaponActor.h",
+              "DocumentMoniker": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Equipment\\RKGASWeaponActor.h",
+              "RelativeDocumentMoniker": "RoyalKnightGAS\\Equipment\\RKGASWeaponActor.h",
+              "ToolTip": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Equipment\\RKGASWeaponActor.h",
+              "RelativeToolTip": "RoyalKnightGAS\\Equipment\\RKGASWeaponActor.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-20T04:54:37.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "RKGASWeaponActor.cpp",
+              "DocumentMoniker": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Equipment\\RKGASWeaponActor.cpp",
+              "RelativeDocumentMoniker": "RoyalKnightGAS\\Equipment\\RKGASWeaponActor.cpp",
+              "ToolTip": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Equipment\\RKGASWeaponActor.cpp",
+              "RelativeToolTip": "RoyalKnightGAS\\Equipment\\RKGASWeaponActor.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-20T04:54:33.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "RKGASEquipment.h",
+              "DocumentMoniker": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Equipment\\RKGASEquipment.h",
+              "RelativeDocumentMoniker": "RoyalKnightGAS\\Equipment\\RKGASEquipment.h",
+              "ToolTip": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Equipment\\RKGASEquipment.h",
+              "RelativeToolTip": "RoyalKnightGAS\\Equipment\\RKGASEquipment.h",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-20T04:54:28.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "RKGASEquipment.cpp",
+              "DocumentMoniker": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Equipment\\RKGASEquipment.cpp",
+              "RelativeDocumentMoniker": "RoyalKnightGAS\\Equipment\\RKGASEquipment.cpp",
+              "ToolTip": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Equipment\\RKGASEquipment.cpp",
+              "RelativeToolTip": "RoyalKnightGAS\\Equipment\\RKGASEquipment.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-20T04:54:19.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "RKGASTriggerBox.h",
+              "DocumentMoniker": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Environment\\RKGASTriggerBox.h",
+              "RelativeDocumentMoniker": "RoyalKnightGAS\\Environment\\RKGASTriggerBox.h",
+              "ToolTip": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Environment\\RKGASTriggerBox.h",
+              "RelativeToolTip": "RoyalKnightGAS\\Environment\\RKGASTriggerBox.h",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-20T04:54:02.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "RKGASTriggerBox.cpp",
+              "DocumentMoniker": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Environment\\RKGASTriggerBox.cpp",
+              "RelativeDocumentMoniker": "RoyalKnightGAS\\Environment\\RKGASTriggerBox.cpp",
+              "ToolTip": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Environment\\RKGASTriggerBox.cpp",
+              "RelativeToolTip": "RoyalKnightGAS\\Environment\\RKGASTriggerBox.cpp",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-20T04:53:59.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "RKGASCharacterEnemy.cpp",
+              "DocumentMoniker": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Character\\RKGASCharacterEnemy.cpp",
+              "RelativeDocumentMoniker": "RoyalKnightGAS\\Character\\RKGASCharacterEnemy.cpp",
+              "ToolTip": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Character\\RKGASCharacterEnemy.cpp",
+              "RelativeToolTip": "RoyalKnightGAS\\Character\\RKGASCharacterEnemy.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-20T04:52:44.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "RKGASCharacterEnemy.h",
+              "DocumentMoniker": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Character\\RKGASCharacterEnemy.h",
+              "RelativeDocumentMoniker": "RoyalKnightGAS\\Character\\RKGASCharacterEnemy.h",
+              "ToolTip": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Character\\RKGASCharacterEnemy.h",
+              "RelativeToolTip": "RoyalKnightGAS\\Character\\RKGASCharacterEnemy.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-20T04:52:48.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "RKGASCharacterPlayer.cpp",
+              "DocumentMoniker": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Character\\RKGASCharacterPlayer.cpp",
+              "RelativeDocumentMoniker": "RoyalKnightGAS\\Character\\RKGASCharacterPlayer.cpp",
+              "ToolTip": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Character\\RKGASCharacterPlayer.cpp",
+              "RelativeToolTip": "RoyalKnightGAS\\Character\\RKGASCharacterPlayer.cpp",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAAALcAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-20T04:52:52.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "RKGASCharacterPlayer.h",
+              "DocumentMoniker": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Character\\RKGASCharacterPlayer.h",
+              "RelativeDocumentMoniker": "RoyalKnightGAS\\Character\\RKGASCharacterPlayer.h",
+              "ToolTip": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Character\\RKGASCharacterPlayer.h",
+              "RelativeToolTip": "RoyalKnightGAS\\Character\\RKGASCharacterPlayer.h",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAAgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-20T04:52:57.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "RKCharacterAttributeSet.h",
+              "DocumentMoniker": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Attribute\\RKCharacterAttributeSet.h",
+              "RelativeDocumentMoniker": "RoyalKnightGAS\\Attribute\\RKCharacterAttributeSet.h",
+              "ToolTip": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Attribute\\RKCharacterAttributeSet.h",
+              "RelativeToolTip": "RoyalKnightGAS\\Attribute\\RKCharacterAttributeSet.h",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAACcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-20T04:52:20.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "RKCharacterAttributeSet.cpp",
+              "DocumentMoniker": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Attribute\\RKCharacterAttributeSet.cpp",
+              "RelativeDocumentMoniker": "RoyalKnightGAS\\Attribute\\RKCharacterAttributeSet.cpp",
+              "ToolTip": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Attribute\\RKCharacterAttributeSet.cpp",
+              "RelativeToolTip": "RoyalKnightGAS\\Attribute\\RKCharacterAttributeSet.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-20T04:52:15.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "RKAN_AttackHitCheck.cpp",
+              "DocumentMoniker": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Animation\\RKAN_AttackHitCheck.cpp",
+              "RelativeDocumentMoniker": "RoyalKnightGAS\\Animation\\RKAN_AttackHitCheck.cpp",
+              "ToolTip": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Animation\\RKAN_AttackHitCheck.cpp",
+              "RelativeToolTip": "RoyalKnightGAS\\Animation\\RKAN_AttackHitCheck.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-20T04:52:08.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "RKAN_AttackHitCheck.h",
+              "DocumentMoniker": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Animation\\RKAN_AttackHitCheck.h",
+              "RelativeDocumentMoniker": "RoyalKnightGAS\\Animation\\RKAN_AttackHitCheck.h",
+              "ToolTip": "C:\\Users\\ryu\\Desktop\\PORTFOLIO\\RoyalKnight\\RoyalKnightGAS\\Animation\\RKAN_AttackHitCheck.h",
+              "RelativeToolTip": "RoyalKnightGAS\\Animation\\RKAN_AttackHitCheck.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-20T04:52:12.317Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

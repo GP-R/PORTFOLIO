@@ -13,9 +13,6 @@
 
 DECLARE_DYNAMIC_MULTICAST_DELEGATE(FOutOfHealthDelegate);
 
-/**
- * 
- */
 UCLASS()
 class ROYALKNIGHTGAS_API URKCharacterAttributeSet : public UAttributeSet
 {
@@ -37,11 +34,9 @@ public:
 	ATTRIBUTE_ACCESSORS(URKCharacterAttributeSet, Damage);
 
 	virtual void PreAttributeChange(const FGameplayAttribute& Attribute, float& NewValue) override;
-	//virtual void PostAttributeChange(const FGameplayAttribute& Attribute, float OldValue, float NewValue) override;
 	virtual bool PreGameplayEffectExecute(struct FGameplayEffectModCallbackData& Data) override;
 	virtual void PostGameplayEffectExecute(const struct FGameplayEffectModCallbackData& Data) override;
 
-	// 해당 Attribute를 Get할때 const로밖에 못가져오기 때문에 해당 이벤트만 바인드 가능하게 mutable
 	mutable FOutOfHealthDelegate OnOutOfHealth;
 
 protected:

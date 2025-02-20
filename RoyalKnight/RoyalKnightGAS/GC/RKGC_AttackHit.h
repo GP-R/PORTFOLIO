@@ -1,14 +1,9 @@
-// Fill out your copyright notice in the Description page of Project Settings.
-
 #pragma once
 
 #include "CoreMinimal.h"
 #include "GameplayCueNotify_Static.h"
 #include "RKGC_AttackHit.generated.h"
 
-/**
- * 
- */
 UCLASS()
 class ROYALKNIGHTGAS_API URKGC_AttackHit : public UGameplayCueNotify_Static
 {

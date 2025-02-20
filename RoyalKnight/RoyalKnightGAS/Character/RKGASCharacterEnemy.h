@@ -5,9 +5,6 @@
 #include "AbilitySystemInterface.h"
 #include "RKGASCharacterEnemy.generated.h"
 
-/**
- * 
- */
 UCLASS()
 class ROYALKNIGHTGAS_API ARKGASCharacterEnemy : public ARKCharacterEnemy, public IAbilitySystemInterface
 {

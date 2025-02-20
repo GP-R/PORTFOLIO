@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\RoyalKnightGAS",
+    "\\RoyalKnightGAS\\Inventory",
+    "\\RoyalKnightGAS\\Inventory\\UI",
+    "\\RoyalKnightGAS\\Item",
+    "\\RoyalKnightGAS\\Item\\ItemData",
+    "\\RoyalKnightGAS\\Item\\UI",
+    "\\RoyalKnightGAS\\Player",
+    "\\RoyalKnightGAS\\Tag",
+    "\\RoyalKnightGAS\\UI"
+  ],
+  "SelectedNode": "\\RoyalKnightGAS\\UI\\RKGASWidgetComponent.h",
+  "PreviewInSolutionExplorer": false
+}

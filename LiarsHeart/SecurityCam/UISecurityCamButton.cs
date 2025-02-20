@@ -18,20 +18,9 @@ public class UISecurityCamButton : MonoBehaviour
         eventHandler = Utility.GetOrAddComponent<UIEventHandler>(this.gameObject);
     }
 
-    private void Start()
-    {
-
-    }
-
     public void Init(string title, ToggleGroup toggleGroup)
     {
         this.title.text = title;
         this.toggle.group = toggleGroup;
-    }
-
-    // UI Event
-    private void Click()
-    {
-
     }
 }

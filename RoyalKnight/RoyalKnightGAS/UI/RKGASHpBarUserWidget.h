@@ -5,9 +5,6 @@
 #include "GameplayEffectTypes.h"
 #include "RKGASHpBarUserWidget.generated.h"
 
-/**
- * 
- */
 UCLASS()
 class ROYALKNIGHTGAS_API URKGASHpBarUserWidget : public URKGASUserWidget
 {

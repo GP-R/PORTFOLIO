@@ -5,9 +5,6 @@
 #include "GameplayTagContainer.h"
 #include "RKAN_AttackHitCheck.generated.h"
 
-/**
- * 
- */
 UCLASS()
 class ROYALKNIGHTGAS_API URKAN_AttackHitCheck : public UAnimNotify
 {

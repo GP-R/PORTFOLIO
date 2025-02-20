@@ -1,5 +1,3 @@
-// Fill out your copyright notice in the Description page of Project Settings.
-
 #pragma once
 
 #include "CoreMinimal.h"
@@ -8,9 +6,6 @@
 #include "Abilities/GameplayAbilityTypes.h"
 #include "RKGASCharacterPlayer.generated.h"
 
-/**
- * 
- */
 UCLASS()
 class ROYALKNIGHTGAS_API ARKGASCharacterPlayer : public ARKCharacterPlayer, public IAbilitySystemInterface
 {

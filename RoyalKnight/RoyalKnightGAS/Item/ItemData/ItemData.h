@@ -5,9 +5,6 @@
 #include "Game/RKAssetManager.h"
 #include "ItemData.generated.h"
 
-/**
- * 
- */
 UCLASS(Abstract, BlueprintType)
 class ROYALKNIGHTGAS_API UItemData : public UPrimaryDataAsset
 {

@@ -13,20 +13,16 @@ public class UIDialogue : UIPopup
     [SerializeField] private Image rightLocation;
 
     [SerializeField] private Image background;
-    [SerializeField] private Transform lifePanel;
 
-    [SerializeField] private GameObject heartPrefab;
-    [SerializeField] private Sprite heart;
-    [SerializeField] private Sprite brokenHeart;
-
+    // Chat Box
     [SerializeField] private TMP_Text nameText;
     [SerializeField] private TMP_Text contentText;
 
-    [SerializeField] private ToggleGroup toggleGroup = default;
+    [SerializeField] private ToggleGroup toggleGroup;
+    [SerializeField] private DialogueToggle progressToggle;
+    [SerializeField] private DialogueToggle autoProgressToggle;
+    [SerializeField] private DialogueToggle fastAutoProgressToggle;
 
-    [SerializeField] private DialogueToggle progressToggle = default;
-    [SerializeField] private DialogueToggle autoProgressToggle = default;
-    [SerializeField] private DialogueToggle fastAutoProgressToggle = default;
     [SerializeField] private Button dialogueHistoryButton;
 
     [SerializeField] private bool autoProgress = false;
@@ -35,21 +31,15 @@ public class UIDialogue : UIPopup
 
     // Listening
     [SerializeField] private DialogueEventChannelSO setDialogueEvent;
-    [SerializeField] private VoidEventChannelSO createLifeEvent;
-    [SerializeField] private VoidEventChannelSO inCorrectSelectEvent;
 
     private Coroutine curCoroutine = null;
-    private Coroutine LifeEventCoroutine = null;
     private DSDialogueSO curDialogue = null;
-    private List<Image> heartImages = new List<Image>();
 
-    bool isComplete = false;
+    private bool isComplete = false;
 
     private void OnEnable()
     {
         setDialogueEvent.OnEventRaised += StartDialogueCoroutine;
-        createLifeEvent.OnEventRaised += CreateLifeImage;
-        inCorrectSelectEvent.OnEventRaised += PlayInCorrectSelectEffect;
 
         progressToggle.Toggle.group = toggleGroup;
         autoProgressToggle.Toggle.group = toggleGroup;
@@ -58,6 +48,7 @@ public class UIDialogue : UIPopup
         progressToggle.Toggle.onValueChanged.AddListener(OnProgressToggle);
         autoProgressToggle.Toggle.onValueChanged.AddListener(OnAutoProgressToggle);
         fastAutoProgressToggle.Toggle.onValueChanged.AddListener(OnFastAutoProgressToggle);
+
         dialogueHistoryButton.onClick.AddListener(OnClikedDialogueHistoryButton);
     }
 
@@ -70,6 +61,7 @@ public class UIDialogue : UIPopup
         progressToggle.Toggle.onValueChanged.RemoveListener(OnProgressToggle);
         autoProgressToggle.Toggle.onValueChanged.RemoveListener(OnAutoProgressToggle);
         fastAutoProgressToggle.Toggle.onValueChanged.RemoveListener(OnFastAutoProgressToggle);
+
         dialogueHistoryButton.onClick.RemoveListener(OnClikedDialogueHistoryButton);
     }
 
@@ -145,7 +137,6 @@ public class UIDialogue : UIPopup
         }
     }
 
-    // TODO : 독백 및 시스템 네임 처리
     private void SetNameText(DSDialogueSO dialogueSO)
     {
         nameText.text = "";
@@ -156,10 +147,6 @@ public class UIDialogue : UIPopup
                 nameText.text = speaker.Character.Name;
             }
         }
-        /*if(nameText.text.Length == 0)
-        {
-            nameText.text = "(독백)";
-        }*/
     }
 
     private void StartDialogueCoroutine(DSDialogueSO dialogueSO)
@@ -168,11 +155,6 @@ public class UIDialogue : UIPopup
         {
             return;
         }
-
-        /*if(lifePanel.gameObject.activeSelf)
-        {
-            LifeEventCoroutine = StartCoroutine(InActiveHeartPanel());
-        }*/
 
         SetBackgroundImage(dialogueSO.Background);
         SetNameText(dialogueSO);
@@ -245,56 +227,6 @@ public class UIDialogue : UIPopup
             return;
         }
         GameManager.Sound.Play(curDialogue.SoundEffects[length]);
-    }
-
-    private void CreateLifeImage()
-    {
-        foreach(Image heartImage in heartImages)
-        {
-            Destroy(heartImage.gameObject);
-        }
-        heartImages.Clear();
-
-        lifePanel.gameObject.SetActive(true);
-        int maxLife = GameManager.Dialogue.MaxLife;
-        int curLife = GameManager.Dialogue.CurLife;
-
-        for (int i = 0; i < curLife; i++)
-        {
-            Image image = Instantiate(heartPrefab, lifePanel).GetComponent<Image>();
-            image.sprite = heart;
-            heartImages.Add(image);
-        }
-
-        for (int i = 0; i < maxLife - curLife; i++)
-        {
-            Image image = Instantiate(heartPrefab, lifePanel).GetComponent<Image>();
-            image.sprite = brokenHeart;
-            heartImages.Add(image);
-        }
-
-        if (LifeEventCoroutine != null)
-        {
-            StopCoroutine(LifeEventCoroutine);
-        }
-        LifeEventCoroutine = StartCoroutine(InActiveHeartPanel());
-    }
-
-    private void PlayInCorrectSelectEffect()
-    {
-        if(LifeEventCoroutine != null)
-        {
-            StopCoroutine(LifeEventCoroutine);
-        }
-        CreateLifeImage();
-        LifeEventCoroutine = StartCoroutine(InActiveHeartPanel());
-    }
-
-    private IEnumerator InActiveHeartPanel()
-    {
-        yield return new WaitForSeconds(3.0f);
-        lifePanel.gameObject.SetActive(false);
-        LifeEventCoroutine = null;
     }
 
     public void SetBackgroundImage(Sprite background)

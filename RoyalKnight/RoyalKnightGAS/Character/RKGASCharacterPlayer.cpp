@@ -182,14 +182,6 @@ void ARKGASCharacterPlayer::Equip(const FGameplayEventData* EventData)
 			}
 		}
 	}
-
-	//Effect¾²¸éµÊ
-	/*const float CurrentAttackRange = ASC->GetNumericAttributeBase(URKCharacterAttributeSet::GetAttackRangeAttribute());
-	const float CurrentAttackRate = ASC->GetNumericAttributeBase(URKCharacterAttributeSet::GetAttackRateAttribute());
-
-	ASC->SetNumericAttributeBase(URKCharacterAttributeSet::GetAttackRangeAttribute(), CurrentAttackRange + WeaponRange);
-	ASC->SetNumericAttributeBase(URKCharacterAttributeSet::GetAttackRateAttribute(), CurrentAttackRate + WeaponAttackRate);
-	}*/
 }
 
 void ARKGASCharacterPlayer::Unequip(const FGameplayEventData* EventData)
@@ -206,49 +198,6 @@ void ARKGASCharacterPlayer::Unequip(const FGameplayEventData* EventData)
 			Item->UnEquip();
 		}
 	}
-	/*if (IsValid(WeaponClass) && IsValid(CurrentWeapon))
-	{
-		for (TSubclassOf<UGameplayAbility> SkillAbilityClass : SkillAbilityClasses)
-		{
-			FGameplayAbilitySpec* SkillAbilitySpec = ASC->FindAbilitySpecFromClass(SkillAbilityClass);
-			if (SkillAbilitySpec)
-			{
-				ASC->ClearAbility(SkillAbilitySpec->Handle);
-			}
-
-		}
-		ARKGASPlayerController* PlayerController = Cast<ARKGASPlayerController>(GetController());
-		if (PlayerController)
-		{
-			URKGASHUDWidget* HUD = PlayerController->GetHUD();
-			if (HUD)
-			{
-				HUD->ClearSkillIcon();
-			}
-		}
-		CurrentWeapon->Destroy();
-		CurrentWeapon = nullptr;
-	}*/
-	/*if (Weapon)
-	{
-		
-		const float CurrentAttackRange = ASC->GetNumericAttributeBase(URKCharacterAttributeSet::GetAttackRangeAttribute());
-		const float CurrentAttackRate = ASC->GetNumericAttributeBase(URKCharacterAttributeSet::GetAttackRateAttribute());
-
-		ASC->SetNumericAttributeBase(URKCharacterAttributeSet::GetAttackRangeAttribute(), CurrentAttackRange - WeaponRange);
-		ASC->SetNumericAttributeBase(URKCharacterAttributeSet::GetAttackRateAttribute(), CurrentAttackRate - WeaponAttackRate);
-
-		for (TSubclassOf<UGameplayAbility> SkillAbilityClass : SkillAbilityClasses)
-		{
-			FGameplayAbilitySpec* SkillAbilitySpec = ASC->FindAbilitySpecFromClass(SkillAbilityClass);
-			if (SkillAbilitySpec)
-			{
-				ASC->ClearAbility(SkillAbilitySpec->Handle);
-			}
-		}
-
-		Weapon->SetSkeletalMesh(nullptr);
-	}*/
 }
 
 void ARKGASCharacterPlayer::ToggleInventory()
