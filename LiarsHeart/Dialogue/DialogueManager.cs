@@ -4,12 +4,6 @@ using System.Collections.Generic;
 
 public class DialogueManager
 {
-    [SerializeField] private int maxLife = 5;
-    public int MaxLife { get => maxLife; }
-
-    [SerializeField] private int curLife;
-    public int CurLife { get => curLife; }
-
     private List<DSDialogueSO> savedDialogueData = new List<DSDialogueSO>();
     public List<DSDialogueSO> SavedDialogueData { get => savedDialogueData; }
 
@@ -30,23 +24,12 @@ public class DialogueManager
         setDialogueEvent = Resources.Load<DialogueEventChannelSO>(path + "SetDialogueEvent");
         selectDialogueEvent = Resources.Load<DialogueEventChannelSO>(path + "SelectDialogueEvent");
         endDialogueEvent = Resources.Load<VoidEventChannelSO>(path + "EndDialogueEvent");
-        createLifeEvent = Resources.Load<VoidEventChannelSO>(path + "CreateLifeEvent");
-        inCorrectSelectEvent = Resources.Load<VoidEventChannelSO>(path + "InCorrectSelectEvent");
     }
 
     public void PlayDialogue(DSDialogueSO dialogue)
     {
-        if (dialogue == null)
+        if (dialogue == null || dialogue.Choices == null)
         {
-            curLife = maxLife;
-            endDialogueEvent.RaiseEvent();
-            savedDialogueData.Clear();
-            return;
-        }
-
-        if (dialogue.Choices == null)
-        {
-            curLife = maxLife;
             endDialogueEvent.RaiseEvent();
             savedDialogueData.Clear();
             return;
@@ -64,13 +47,6 @@ public class DialogueManager
         }
 
         setDialogueEvent.RaiseEvent(dialogue);
-    }
-
-    public void InCorrectSelect()
-    {
-        curLife -= 1;
-        //라이프 체크 후 엔딩 실행
-        inCorrectSelectEvent.RaiseEvent();
     }
 
     private void SetBGM(AudioClip bgm)
