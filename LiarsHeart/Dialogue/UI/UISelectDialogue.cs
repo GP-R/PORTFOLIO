@@ -44,7 +44,6 @@ public class UISelectDialogue : UIPopup
 
     private void OnClickSelectButton(DSDialogueChoiceData selectOption)
     {
-        //TODO
         if(!selectOption.InCorrect)
         {
             GameManager.Dialogue.InCorrectSelect();
